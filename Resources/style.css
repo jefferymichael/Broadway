@@ -1,3 +1,60 @@
 html {
   text-align: center;
 }
+
+h3 {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: gray;
+}
+
+p {
+  font-family: helvetica;
+  color: gray;
+  font-size: 14px;
+}
+
+
+#broadway {
+  background-image: url(/Users/jeffborota/Documents/DevProjects/Broadway/Resources/Pictures/building.png
+);
+}
+
+#designed {
+  background-image: url(/Users/jeffborota/Documents/DevProjects/Broadway/Resources/Pictures/building.png
+);
+  font-family: helvetica;
+  font-wegith: bold;
+  font-size: 23px;
+  color: white;
+}
+
+.title {
+  font-family: verdana;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.list {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+  list-style-type: none;
+}
+
+.process {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: gray;
+}
+
+.copyright {
+  text-align: left;
+  font-family: helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
